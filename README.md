@@ -122,9 +122,13 @@ Created to showcase beautiful CSS animations through clean design, smooth motion
 
 ---
 
+## 📂 Project Structure
+
+```text
 SpinnerVerse/
 │
 ├── index.html
 ├── style.css
 ├── spinners.css
 └── README.md
+```
