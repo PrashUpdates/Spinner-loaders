@@ -64,24 +64,6 @@ preview.png
 
 ---
 
-## 🚀 Getting Started
-
-### Clone Repository
-
-```bash
-git clone https://github.com/yourusername/spinnerverse.git
-```
-
-### Open Project
-
-```text
-index.html
-```
-
-Run directly in your browser.
-
----
-
 ## 💡 Use Cases
 
 - Website Loading Screens
