@@ -49,5 +49,5 @@ Premium collection of modern CSS loading animations built using pure HTML and CS
 
 ---
 
-⭐ If you like this project, don't forget to **Star** the repository!
+### ⭐ If you like this project, don't forget to **Star** the repository!
 
