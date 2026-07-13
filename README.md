@@ -1,7 +1,5 @@
 # ✴️ Spinner loaders
 
-Top 10 Modern CSS Loading Animations
-
 Premium collection of modern CSS loading animations built using pure HTML and CSS. The project showcases 10 unique loaders displayed inside a beautiful glassmorphism-inspired interface.
 
 <p align="center">
