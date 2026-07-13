@@ -16,7 +16,7 @@ Premium collection of modern CSS loading animations built using pure HTML and CS
 </p>
 
 
----
+
 
 ## 🌟 Features
 
@@ -27,7 +27,6 @@ Premium collection of modern CSS loading animations built using pure HTML and CS
 - 🚀 Lightweight & Fast
 - 🧩 Easy To Customize
 
----
 
 ## 🎯 Included Spinners
 
@@ -42,7 +41,6 @@ Premium collection of modern CSS loading animations built using pure HTML and CS
 - 9️⃣ Galaxy Spinner
 - 🔟 Wave Dots Spinner
 
----
 
 ### ⭐ If you like this project, don't forget to **Star** the repository!
 
